@@ -1,2 +1,3 @@
 index.html
-images
+images/ata2.png
+images/download.jpg
